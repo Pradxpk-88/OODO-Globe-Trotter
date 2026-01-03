@@ -2,8 +2,5 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Dark-first global baseline */
-html {
-  background-color: #0f172a;
-  color: #e5e7eb;
-}
+body {
+  @apply

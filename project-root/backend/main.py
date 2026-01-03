@@ -1,0 +1,6 @@
+app.include_router(auth)
+app.include_router(trips)
+app.include_router(stops)
+app.include_router(activities)
+app.include_router(costs)
+app.include_router(share)
